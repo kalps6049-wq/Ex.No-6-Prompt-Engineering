@@ -116,8 +116,7 @@ Sentiment Analysis:
 Insight: The review tone is neutral or negative.
 
 RESULT:
-
-              The Python program was successfully developed and executed. The generated AI text was analyzed using sentiment analysis, and the program correctly identified whether the text was positive, negative, or neutral based on the compound sentiment score. The code demonstrated compatibility with multiple AI-generated text outputs.
+The Python program was successfully developed and executed. The generated AI text was analyzed using sentiment analysis, and the program correctly identified whether the text was positive, negative, or neutral based on the compound sentiment score. The code demonstrated compatibility with multiple AI-generated text outputs.
 
 
 
