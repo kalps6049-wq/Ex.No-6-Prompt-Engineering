@@ -42,6 +42,7 @@ PROCEDURE:
 
 
 POSITIVE CODE:
+```
 
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
@@ -66,6 +67,7 @@ if sentiment['compound'] > 0:
     print("\nInsight: The review is positive and suitable for marketing promotion.")
 else:
     print("\nInsight: The review tone is neutral or negative.")
+```
 
 OUTPUT:
 
@@ -77,6 +79,7 @@ Sentiment Analysis:
 Insight: The review is positive and suitable for marketing promotion.
 
 NEGATIVE CODE:
+```
 
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
@@ -101,6 +104,7 @@ if sentiment['compound'] > 0:
     print("\nInsight: The review is positive and suitable for marketing promotion.")
 else:
     print("\nInsight: The review tone is neutral or negative.")
+```
 
 OUTPUT:
 
